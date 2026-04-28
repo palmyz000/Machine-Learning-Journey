@@ -1,0 +1,19 @@
+# 1. โฟลเดอร์ Virtual Environment (สำคัญมาก ห้ามอัปโหลด!)
+.venv/
+venv/
+env/
+
+# 2. ไฟล์ขยะของ Python และ Jupyter Notebook
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 3. ไฟล์ตั้งค่าส่วนตัว หรือรหัสผ่าน
+.env
+.DS_Store
+Thumbs.db
+
+# 4. โฟลเดอร์เก็บข้อมูลหรือโมเดลที่ไฟล์ใหญ่เกินไป (ทางเลือก)
+# ถ้าไฟล์ CSV ของคุณเล็กๆ อัปโหลดได้ครับ แต่ถ้าใหญ่ระดับ GB แนะนำให้เอา # ข้างหน้าออกเพื่อ Ignore มัน
+# data/raw/
+models/*.joblib

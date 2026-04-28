@@ -1,0 +1,23 @@
+[project]
+name = "online-hoppers-intention-classification"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.136.0",
+    "gradio>=4.0.0",
+    "imbalanced-learn>=0.14.1",
+    "jupyterlab>=4.5.6",
+    "lightgbm>=4.0.0",
+    "matplotlib>=3.7.0",
+    "numpy>=1.24.0",
+    "optuna>=3.4.0",
+    "pandas>=2.0.0",
+    "scikit-learn>=1.2.0",
+    "seaborn>=0.12.0",
+    "shap>=0.43.0",
+    "streamlit>=1.56.0",
+    "uvicorn>=0.44.0",
+    "xgboost>=2.0.0",
+]
