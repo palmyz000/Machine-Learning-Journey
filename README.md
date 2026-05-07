@@ -76,4 +76,4 @@ Exploring clustering and recommendation engines.
 * 🔗 **LinkedIn:** [Suphawit MeeSak](https://www.linkedin.com/in/suphawit-meesak/)
 * 💻 **GitHub:** [palmyz000](https://github.com/palmyz000)
 * 🤗 **Hugging Face:** [palmyz0](https://huggingface.co/palmyz0)
-* 🌐 **Portfolio:** [suphawit-portfolio.vercel.app]([https://your-vercel-domain.vercel.app](https://palmyz0-portfolio.vercel.app/)
+* 🌐 **Portfolio:** [suphawit-portfolio.vercel.app](https://palmyz0-portfolio.vercel.app/)
